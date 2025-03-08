@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Eduardo7881/JMPlayer/refs/heads/main/images/jmplayer_demo.png" alt="JMPlayer working!1!!1!" />
+  <img href="https://raw.githubusercontent.com/Eduardo7881/JMPlayer/refs/heads/main/images/jvmmp_demo.png" alt="JMPlayer working!1!!1!" />
 </p>
 
 # JMPlayer
